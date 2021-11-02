@@ -1,3 +1,3 @@
 # Computer Graphics Course Project
-Project Name: Day Laps  
+Project Name: Day Lapse
 Based on OpenGL in C++
